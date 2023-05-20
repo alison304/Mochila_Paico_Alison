@@ -1,0 +1,20 @@
+CHEATSHEET - GIT_GITHUB
+
+- git init: sirve para inicializar un repositorio.
+- git log --oneline: muestra los ids de nuestros commits.
+- rm -rf: borra todo lo que esta dentro de una carpeta.
+- git restore: restaura el estado de un archivo.
+- git fetch: se usa para descargar contenido de un repositorio remoto, no modifica el repositorio local.
+- git pull: descarga cambios y actualiza el repositorio local.
+- git merge: permite fusionar los cambios de la rama especificada a la rama principal.
+- git add: agrega un archivo al area staging o de preparacion.
+- git branch: crea una rama.
+- git commit -m "mensaje": crea un commit y guarda los archivos en el repositorio local.
+- git status: muestra la rama en la que nos encontramos, los archivos que tienen cambios, ademas, muestra que archivos no estan siendo considerados.
+- git push: sube los commits desde tu rama local al repositorio remoto de Github.
+- git checkout nombre_dela_rama: sirve para pasar de una rama a otra.
+- git switch: cambia a la rama anteriormente seleccionada.
+- git diff: muestra cambios en los archivos, ramas y commits.
+- git branch -d nombre_dela_rama: elimina la rama dada.
+- git remote -v: sirve para configurar los repositorios.
+- git branch -M main: cambia de nombre la rama master por main.
