@@ -1,0 +1,10 @@
+Cuestionario VirtualBox
+
+1- Porque algunos lenguajes son multiplataformas y otros no?
+El lenguaje Java, es un lenguaje multiplataforma, porque que permite su ejecucion en distintos sistemas operativos.
+
+2- Qué tipo de máquina virtual es virtualBox?
+VirtualBox es un software para virtualización, hipervisor de tipo II, permite virtualizar diferentes sistemas operativos, capacidad de disco duro o memoria RAM, entre otros dentro de nuestro ordenador.
+
+3- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Si una maquina virtual se rompe, no afectara al resto, porque cada maquina virtual es independiente a la otra, y les da un entorno seguro.Asegurandonos de que el hardware, que sostiene a todas las maquinas, no se rompa.
