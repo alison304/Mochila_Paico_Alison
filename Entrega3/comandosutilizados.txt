@@ -1,0 +1,10 @@
+   18  git --version
+   19  git branch entrega3
+   20  git checkout entrega3
+   21  touch Cuestionario.txt
+   22  cd Entrega3
+   23  touch Cuestionario.txt
+   24  git add .
+   25  git commit -m "add entrega3"
+   26  git push origin entrega3
+   27  history 10 > comandosutilizados.txt
