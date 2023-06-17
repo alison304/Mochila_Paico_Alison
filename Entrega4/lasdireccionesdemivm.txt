@@ -1,0 +1,2 @@
+ direcciónHW 08:00:27:dd:09:86  
+ Direc. inet:10.0.2.15
